@@ -1,0 +1,26 @@
+div{
+    background-color: cadetblue;
+}
+
+.heading{
+    /* color: brown ; */
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.para{
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    background-image: url("../html/images/face.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.btn{
+    border: 2px solid red;
+    margin: 5px;
+    padding:5px;
+    color: blue;
+    background-color: rgb(197, 175, 175);
+}
